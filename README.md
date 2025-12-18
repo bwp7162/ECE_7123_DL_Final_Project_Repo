@@ -3,6 +3,7 @@ The zip files are all of the files in the dataset. train_1 and train_2 are the t
 The labels contain both the training and validation set labels.
 The yaml file contains the classes and paths for the YOLO trainer.
 
+The dataset is uploaded on kaggle, so the jupyter file can pull the data from there. I couldn't fit everything on github, so I had to use something else.
 Here's the link for the kaggle dataset: https://www.kaggle.com/datasets/brycepoonai/dl-circuit-dataset-bp
 
 I also have the pt file of the model, but it doesn't fit in github and I forgot to put the link in the report when I submitted it, so here the link for that:
