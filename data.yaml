@@ -1,5 +1,5 @@
-train: Circuit_Dataset_YOLO/images/train
-val: Circuit_Dataset_YOLO/images/val
+train: /content/Circuit_Dataset_YOLO/Circuit_Dataset_YOLO/images/train
+val: /content/Circuit_Dataset_YOLO/Circuit_Dataset_YOLO/images/val
 
 nc: 6
 names: ['Capacitor', 'DC_Source', 'Ground', 'Inductor', 'Resistor', 'Source']
