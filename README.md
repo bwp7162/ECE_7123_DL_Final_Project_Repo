@@ -8,3 +8,5 @@ Here's the link for the kaggle dataset: https://www.kaggle.com/datasets/brycepoo
 
 I also have the pt file of the model, but it doesn't fit in github and I forgot to put the link in the report when I submitted it, so here the link for that:
 https://drive.google.com/file/d/1x6H0vn2vT8dGcyC8z0xAwaooRGJrpd3S/view?usp=sharing
+
+The write up of the project is included in the report
